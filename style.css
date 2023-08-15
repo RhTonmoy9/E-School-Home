@@ -1,0 +1,216 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	font-size: 14px;
+	line-height: 1.7em;
+	font-family: 'Poppins', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+
+}
+
+a,a:hover {
+	text-decoration: none;
+}
+
+.bg1 {
+ 	background: #F0FFF0;
+}
+.header {
+	padding: 10px 0px 40px;
+}
+.header .navbar .books {
+	padding-right:12px ;
+}
+
+.header .navbar ul li {
+	padding: 0px 16px 0px;
+}
+.header .navbar ul li {
+
+}
+
+.navbar a {
+	color: black;
+}
+
+.navbar a:hover {
+ 	color: #21B573;
+}
+.navbar .sign-in button {
+	color: white;
+	font-weight: 700;
+	font-size: 16px;
+	background: #21B573;
+	border: 1px solid #21B573;
+	border-radius: 50px;
+	transition: 1.2s;
+}
+
+.navbar .sign-in button:hover {
+	color: black;
+	background: transparent;
+}
+.navbar .sign-in button:focus {
+	color: black;
+	background: #21B573;
+}
+
+.banner {
+	margin: 80px 10px 0px ;
+}
+
+.banner .redp {
+	color: #FD511A;
+	font-weight: 400;
+}
+
+.banner h1 {
+	margin: 0px 0px 20px 0px;
+	font-weight: 600;
+}
+.banner h1 span {
+	font-size: 48px;
+	line-height: 1.2em;
+	color: #21B573;
+	font-weight: 600;
+}
+.banner .blackp {
+	color: black;
+	font-weight: 600;
+}
+.banner  .sign-in button {
+	color: white;
+	background: #21B573;
+	border: 1px solid #21B573;
+	border-radius: 50px;
+	margin: 60px 0px 0px;
+}
+.banner  .sign-in button:hover {
+	color: black;
+	background: transparent;
+}
+
+.banner .sign-in button:active {
+	color: black;
+	background: #21B573;
+}
+.feature {
+	margin: 80px auto;
+	text-align: center;
+}
+.feature .inner-feature {
+	width: 100%;
+	padding: 40px;
+	text-align: center;
+	background: #F8FFFB;
+	border-radius:10px ;
+
+}
+.feature .inner-feature img{
+	width: 66px;
+	height: 85px;
+	margin: 0px 0px 10px;
+}
+
+.feature .inner-feature h4{
+	font-size: 20px;
+	font-weight: 700;
+}
+.feature .inner-feature p {
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.feature .inner-feature:hover {
+	border-radius: 10px;
+	background: #FFF;
+	box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+
+.oc h1 {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 700;
+	color: rgba(65, 57, 96, 1);
+}
+
+.courses {
+	margin: 40px 0px 40px;
+}
+.courses .card {
+
+	padding: 0px;
+	margin: 30px;
+	width: 100%;
+}
+.courses .card h5 {
+	font-weight: 700;
+}
+.courses .card .card-img-top {
+	padding: 16px 16px 4px;
+}
+.courses  p{
+	font-size:12px ;
+}
+.date img , .seat img {
+	width: 14px;
+}
+.d-s {
+	margin: 8px 0px 0px;
+}
+
+.courses .card a {
+	border-radius: 33px;
+	background: #21B573;
+	font-weight: 700;
+	font-size: 16px;
+	background: #21B573;
+	border: 1px solid #21B573;
+	border-radius: 50px;
+	transition: 1.2s;
+	padding: 7px 14px;
+	margin: 0px 0px 10px;
+}
+.courses .card a:hover ,.courses .card a:focus {
+	color: #21B573;
+	background: transparent;
+}
+.Testimonial .Testimonial-img {
+	height: 80px;
+	width: 80px;
+	border-radius: 100%;
+	margin: 0px 0px 0px 200px;
+}
+.Testimonial p {
+	font-size: 14px;
+	line-height: 1.6em;
+	margin: 4px 0px 0px;
+	font-weight: 300;
+}
+.footer {
+	margin: 100px 0px 0px;
+	padding: 40px 60px 0px ;
+	background: #282531;
+}
+.footer p {
+	color: #fff;
+}
+
+.footer .foot-list  .list-bold a {
+	font-weight: 700;
+}
+.footer .foot-list a{
+	display: inline-block;
+	list-style: none;
+	line-height: 1.7em;
+	font-weight: 300;
+	color: #fff;
+}
+.footer .copyright {
+	text-align: center;
+	margin: 10px 0px 0px;
+}
